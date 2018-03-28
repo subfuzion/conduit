@@ -723,7 +723,8 @@
     "util/flowcontrol",
     "util/homedir",
     "util/integer",
-    "util/jsonpath"
+    "util/jsonpath",
+    "util/workqueue"
   ]
   revision = "78700dec6369ba22221b72770783300f143df150"
   version = "v6.0.0"
@@ -746,6 +747,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "85096b26ceba678986d333d0cbe7491966a073a4419b20975beb8b2c88d85bf7"
+  inputs-digest = "d1fd90cef0038e6358bc6c86c893e96fcf339f570870dea7dfb6f5bc12a07d8d"
   solver-name = "gps-cdcl"
   solver-version = 1
